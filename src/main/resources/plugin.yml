@@ -1,0 +1,5 @@
+name: SpigotTest
+version: 1.0
+main: com.pricejoshua.spigottest.SpigotTest
+author: pricejoshua
+description: testplugin
